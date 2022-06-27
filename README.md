@@ -1,1 +1,1 @@
-0x00 shell basics
+my shell redirection readme file
